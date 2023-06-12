@@ -1,0 +1,14 @@
+.navbar{
+    padding-left:5%;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    padding-right: 2%;
+}
+.navbar-brand{
+    font-size: 3rem;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+.buton{
+margin-left: 5px;
+}

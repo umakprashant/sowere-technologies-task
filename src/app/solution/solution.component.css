@@ -1,0 +1,20 @@
+.flex-container {
+    display: flex;
+    padding-left: 10%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+  }
+  h1{
+    font-family: "ubuntu";
+    font-weight: bold;
+  }
+  .image1{
+    padding: 2%;
+    
+  }
+  img{
+    border-radius: 20%;
+  }
+  .flex{
+    margin-right: 20%;
+  }

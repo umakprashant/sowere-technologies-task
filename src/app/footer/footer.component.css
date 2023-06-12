@@ -1,0 +1,163 @@
+body{
+    font-family: "montserrat";
+    text-align: center;
+}
+.bg-body-tertiary{
+    padding: 3%;
+}
+.fa{
+    padding: 10px;
+}
+h1, h2, h3{
+    font-family:"montserrat";
+}
+
+p{
+    color: #8f8f8f;
+}
+/* container */
+.container-fluid{
+    padding: 1% 5%;
+}
+/* sections */
+.colored-section{
+    background-color: #ff4c68;
+    color: #fff;
+}
+.white-section{
+    background-color: #fff;
+    text-align: center;
+}
+
+/* headings */
+.big-heading{ 
+   font-size: 3.0rem;
+   line-height:1.5 ;
+   font-weight: 900;
+
+}
+.section-heading{
+    font-size: 2.5rem;
+    line-height: 1.5;
+    font-weight: 900;
+}
+
+/* navigation bar */
+.navbar{
+    padding: 0 0 2rem;
+}
+.navbar-brand{
+    font-family: "ubuntu";
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+.nav-item{
+    padding: 0 18px;
+}
+.nav-link {
+    font-size: 1.2rem;
+    font-family: "montserrat-light";
+ } 
+ /*download-button */
+.download-button{
+    margin-left: 5px;
+}
+/* title */
+   
+#title .container-fluid{
+    padding: 3% 15% 7%;
+    text-align: left;
+}
+
+/* title image */
+.title-image{
+    width: 60%;
+    transform: rotate(25deg);
+    
+    
+}
+/* feature */
+
+.feature-title{
+    font-size: 1.25rem;
+   font-weight: bold;
+}
+.features-box{
+    padding: 5%;
+}
+.icon{
+    color:#ef8172;
+    margin-bottom: 1rem;
+}
+.icon:hover {
+    color:#ff4c68;
+}
+/* testimonials section */
+#testimonials{
+    background-color: #ef8172;
+    
+}
+.testimonial-text{
+    font-size: 2.5rem;
+    line-height: 1.5;
+    font-weight: 900;
+}
+.testimonial-image{
+    width: 10%;
+    border-radius: 100%;
+    margin: 20px;
+}
+
+#press{
+    background-color: #ef8172;
+    padding-bottom:3% ;
+}
+.press-logo{
+    width: 15%;
+    margin: 20px 20px 50px;
+}
+/* pricing section */
+
+.pricing-text{
+    font-size: 2.5rem;
+    line-height: 1.5;
+    font-weight: 900;
+}
+#pricing{
+    padding: 100px;
+    text-align: center;
+}
+.pricing-column{
+    padding: 3% 2%;
+}
+/* Call to Action  */
+
+
+.cta-heading {
+    font-family: "montserrat";
+    font-size: 2.5rem;
+    font-weight: 900;
+    
+}
+.download-button-cta{
+    margin:5% 2%;
+}
+/* footer design 
+#footer{
+    
+    
+}
+*/
+.icon-foot{
+    margin:2% 1%;
+}
+@media (max-width:1028px)
+{
+    #title{
+        text-align: center;
+    }
+    .title-image{
+        position: static;
+        transform: rotate(0);
+    }
+}

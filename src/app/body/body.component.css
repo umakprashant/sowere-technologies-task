@@ -1,0 +1,22 @@
+.card-group{
+    padding-top: 3%;
+    padding-right: 10%;
+    padding-bottom: 5%;
+    padding-left: 10%;
+}
+.card{
+    padding: 5%;
+}
+h2{
+    font-family: "ubuntu";
+    font-weight: bold;
+}
+.title{
+    padding-left: 10%;
+}
+.container-fluid{
+    padding-top: 3%;
+}
+
+
+

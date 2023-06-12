@@ -1,0 +1,18 @@
+.overallpo{
+    text-align:center;
+    padding-left: 10%;
+    padding-right: 5%;
+    padding-bottom: 5%;
+}
+h2{
+    padding-left: 10%;
+    padding-right: 5%;
+    padding-top:3%;
+}
+.card-img-top{
+    height: 600px;
+    width: 800px;
+}
+.bg-body-tertiary{
+    align-items: center;
+}
